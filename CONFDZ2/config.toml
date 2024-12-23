@@ -1,0 +1,5 @@
+#[settings]
+#visualizer_path = "C:/Users/Home/Downloads"          # Путь к программе PlantUML
+repo_path = "C:/Users/Home/my-repo"            # Путь к вашему git-репозиторию
+output_path = "C:/Users/Home/Graf/output_dependencies.puml" # Файл для сохранения PlantUML кода
+
